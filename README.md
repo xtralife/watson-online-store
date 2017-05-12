@@ -35,6 +35,8 @@ Want to take your Watson app to the next level? Looking to leverage Watson Brand
 
 
 [![Deploy to Bluemix](https://deployment-tracker.mybluemix.net/stats/5fd641e32af04e4adb16f26c46de3587/button.svg)](https://bluemix.net/deploy?repository=https://github.com/IBM/watson-online-store&branch=checkout&cm_mmc=github-code-_-native-_-retailchatbot-_-deploy2bluemix)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM/watson-online-store&branch=checkout)
+
 
 1. [Clone the repo](#1-clone-the-repo)
 2. [Create Bluemix services](#2-create-bluemix-services)
