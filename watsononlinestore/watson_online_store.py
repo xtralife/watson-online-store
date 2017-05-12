@@ -833,11 +833,25 @@ class WatsonOnlineStore:
                 self.context['cart_item'] != ''):
             return self.handle_delete_from_cart()
 
+        if ('shopping_cart' in self.context.keys() and
+                self.context['shopping_cart'] == 'checkout'):
+            LOG.debug("handling checkout in new code")
+            return self.handle_checkout()
+
         if ('get_input' in self.context.keys() and
                 self.context['get_input'] == 'no'):
             return False
 
         return True
+
+    def handle_checkout(self):
+        """ Removes all items from the cart"""
+        email = self.customer.email
+        shopping_list = self.cloudant_online_store.list_shopping_cart(email)
+        for _index, item in enumerate(shopping_list):
+            self.cloudant_online_store.delete_item_shopping_cart(email, item)
+        self.clear_shopping_cart()  # this actually clears the context
+        return False
 
     def run(self):
         """Main run loop of the application
