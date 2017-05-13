@@ -1,333 +1,333 @@
 {
 	"name": "watson-online-store",
-	"created": "2017-05-12T18:37:01.965Z",
+	"created": "2017-05-13T02:42:04.529Z",
 	"intents": [{
 		"intent": "CreateUserAccount",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"examples": [{
 			"text": "I'd like to create a user account",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I'd like to register",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I need to create an account",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want an account",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want to register",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}],
 		"description": null
 	}, {
 		"intent": "login",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"examples": [{
 			"text": "I am a MBI customer",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I am a returning customer",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I have an account",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want to login",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "my account is",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}],
 		"description": null
 	}, {
 		"intent": "Purchase",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"examples": [{
 			"text": "buy",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "can i buy some shoes?",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "get",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I'd like to buy",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I'd like to pay",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I'm ready to check out",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want to buy",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want to get",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "purchase",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}],
 		"description": null
 	}, {
 		"intent": "register",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"examples": [{
 			"text": "I'd like to register for an account",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I'd like to sign up",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I need an account",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want to register",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I wish to sign up",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}],
 		"description": null
 	}, {
 		"intent": "return",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"examples": [{
 			"text": "I'd like to return",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I don't want",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I have bought, but",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I need to return",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I purchased, but",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want my money back",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want to return my shoes",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want to return something",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}],
 		"description": null
 	}, {
 		"intent": "Shop",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"examples": [{
 			"text": "Can I get",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "Do you have",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I'm looking for",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I'm shopping for",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "I want",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "shop",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}],
 		"description": null
 	}, {
 		"intent": "startOver",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"examples": [{
 			"text": "begin again",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "start again",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "start over",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}, {
 			"text": "try again",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z"
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z"
 		}],
 		"description": null
 	}],
-	"updated": "2017-05-12T19:08:06.221Z",
+	"updated": "2017-05-13T03:14:54.452Z",
 	"entities": [{
 		"entity": "NegativeResponse",
 		"values": [{
 			"value": "I don't",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "n",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "nada",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "no",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "nope",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}],
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"description": null
 	}, {
 		"entity": "PositiveResponse",
 		"values": [{
 			"value": "affirmative",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "I do",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "uh-huh",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "y",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "ye",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "yeah",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "yes",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}, {
 			"value": "yup",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": []
 		}],
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"description": null
 	}, {
 		"entity": "product",
 		"values": [{
 			"value": "pants",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": ["capris", "slacks"]
 		}, {
 			"value": "shirt",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": ["blouse", "button down", "polo", "top"]
 		}, {
 			"value": "shoe",
-			"created": "2017-05-12T18:37:01.965Z",
-			"updated": "2017-05-12T18:37:01.965Z",
+			"created": "2017-05-13T02:42:04.529Z",
+			"updated": "2017-05-13T02:42:04.529Z",
 			"metadata": null,
 			"synonyms": ["boot", "boots", "clogs", "pair of shoes", "pumps", "sandals", "shoes"]
 		}],
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"description": null
 	}],
@@ -339,8 +339,8 @@
 		"output": null,
 		"parent": null,
 		"context": null,
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "anything_else",
 		"description": null,
@@ -351,8 +351,8 @@
 		"output": {},
 		"parent": "Shopping Intent",
 		"context": null,
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "True",
 		"description": null,
@@ -363,8 +363,8 @@
 		"output": {},
 		"parent": "Welcome",
 		"context": null,
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "True",
 		"description": null,
@@ -384,8 +384,8 @@
 			"input_text": "",
 			"shopping_cart": "list"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "True",
 		"description": null,
@@ -404,12 +404,31 @@
 			"get_input": "no",
 			"discovery_string": ""
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "true",
 		"description": null,
 		"dialog_node": "Discovery Response",
+		"previous_sibling": null
+	}, {
+		"go_to": null,
+		"output": {
+			"text": {
+				"values": ["Items in your cart are now:\n$shopping_cart"],
+				"selection_policy": "sequential"
+			}
+		},
+		"parent": "List after delete",
+		"context": {
+			"get_input": "no"
+		},
+		"created": "2017-05-13T03:11:45.968Z",
+		"updated": "2017-05-13T03:13:43.956Z",
+		"metadata": null,
+		"conditions": "true",
+		"description": null,
+		"dialog_node": "list items",
 		"previous_sibling": null
 	}, {
 		"go_to": null,
@@ -425,8 +444,8 @@
 			"get_input": "no",
 			"shopping_cart": "add"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "true",
 		"description": null,
@@ -446,8 +465,8 @@
 			"get_input": "no",
 			"shopping_cart": "delete"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "True",
 		"description": null,
@@ -467,8 +486,8 @@
 			"get_input": "no",
 			"shopping_cart": "list"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T19:07:03.002Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T03:05:40.588Z",
 		"metadata": null,
 		"conditions": "true",
 		"description": null,
@@ -484,12 +503,11 @@
 		},
 		"parent": "checkout",
 		"context": {
-			"cart_item": "",
 			"get_input": "no",
 			"shopping_cart": "checkout"
 		},
-		"created": "2017-05-12T18:48:31.834Z",
-		"updated": "2017-05-12T19:07:30.441Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T03:14:54.452Z",
 		"metadata": null,
 		"conditions": "@PositiveResponse",
 		"description": null,
@@ -504,9 +522,11 @@
 			}
 		},
 		"parent": "checkout",
-		"context": null,
-		"created": "2017-05-12T18:47:37.960Z",
-		"updated": "2017-05-12T18:51:10.608Z",
+		"context": {
+			"get_input": "no"
+		},
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:55:59.645Z",
 		"metadata": null,
 		"conditions": "@NegativeResponse",
 		"description": null,
@@ -527,8 +547,8 @@
 			"shopping_cart": "list",
 			"discovery_result": ""
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "input_text",
 		"description": null,
@@ -546,8 +566,8 @@
 		"context": {
 			"get_input": "yes"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "true",
 		"description": null,
@@ -565,8 +585,8 @@
 		"context": {
 			"get_input": "yes"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "True",
 		"description": null,
@@ -580,14 +600,13 @@
 				"selection_policy": "sequential"
 			}
 		},
-		"parent": "List after delete",
+		"parent": "list items",
 		"context": {
 			"cart_item": "",
-			"get_input": "yes",
-			"shopping_cart": ""
+			"get_input": "yes"
 		},
-		"created": "2017-05-12T18:40:43.299Z",
-		"updated": "2017-05-12T19:08:06.221Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T03:14:37.514Z",
 		"metadata": null,
 		"conditions": "true",
 		"description": null,
@@ -606,8 +625,8 @@
 			"cart_item": "",
 			"get_input": "no"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "$shopping_cart",
 		"description": null,
@@ -622,8 +641,8 @@
 		"output": {},
 		"parent": "keep shopping",
 		"context": null,
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:48:21.675Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "true",
 		"description": null,
@@ -643,8 +662,8 @@
 		},
 		"parent": "clear the cart",
 		"context": null,
-		"created": "2017-05-12T18:51:37.892Z",
-		"updated": "2017-05-12T18:54:14.490Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": "true",
 		"description": null,
@@ -663,8 +682,8 @@
 		"context": {
 			"get_input": "yes"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": null,
 		"description": null,
@@ -684,8 +703,8 @@
 			"get_input": "no",
 			"discovery_string": "<?input_text?>"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": " ",
 		"description": null,
@@ -704,18 +723,18 @@
 		"context": {
 			"get_input": "yes"
 		},
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z",
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z",
 		"metadata": null,
 		"conditions": " ",
 		"description": null,
 		"dialog_node": "node_48_1489616615394",
 		"previous_sibling": null
 	}],
-	"workspace_id": "fda7d320-e10f-485a-953f-44658efe64e3",
+	"workspace_id": "a38dc6cb-8a2f-4b74-8be8-24a7200fb401",
 	"counterexamples": [{
 		"text": "how about some politics?",
-		"created": "2017-05-12T18:37:01.965Z",
-		"updated": "2017-05-12T18:37:01.965Z"
+		"created": "2017-05-13T02:42:04.529Z",
+		"updated": "2017-05-13T02:42:04.529Z"
 	}]
 }

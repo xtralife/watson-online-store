@@ -835,7 +835,6 @@ class WatsonOnlineStore:
 
         if ('shopping_cart' in self.context.keys() and
                 self.context['shopping_cart'] == 'checkout'):
-            LOG.debug("handling checkout in new code")
             return self.handle_checkout()
 
         if ('get_input' in self.context.keys() and
