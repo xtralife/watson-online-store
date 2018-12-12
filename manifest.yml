@@ -1,13 +1,13 @@
 declared-services:
   wos-conversation-service:
     label: conversation
-    plan: free
+    plan: standard
   wos-cloudantNoSQLDB-service:
     label: cloudantNoSQLDB
-    plan: Lite
+    plan: Standard
   wos-discovery-service:
     label: discovery
-    plan: lite
+    plan: advanced
 applications:
 - services:
    - wos-conversation-service
